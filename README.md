@@ -1,5 +1,26 @@
-EVALUACIÓN 1
-DESARROLLO DE APLICACIONES WEB
+# ☕ Café el NEO
 
-RODRIGO SEGURA SEGURA
-20.349.553-6
+**EVALUACIÓN 1 — DESARROLLO DE APLICACIONES WEB**  
+📚 _Rodrigo Segura Segura_  
+🆔 _RUT: 20.349.553-6_
+
+---
+
+## 🌐 Descripción
+
+**Café el NEO** Landing page desarrollada en HTML y CSS, enfocada para los amantes del café. El sitio está optimizado para vista **mobile** y **desktop**.
+---
+
+
+## 📸 Video del sitio
+
+
+
+![Test](./src/videos/gif_prueba.mp4)
+
+
+
+---
+
+
+
