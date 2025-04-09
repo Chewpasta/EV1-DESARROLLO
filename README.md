@@ -25,5 +25,6 @@
 
 ---
 
+### 🖥️ WEB
 
-
+![Visita la web](https://chewpasta.github.io/EV1-DESARROLLO/index.html)
