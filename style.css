@@ -1,12 +1,13 @@
 /* Variables de paleta estilosa en tonos púrpuras */
 :root {
-  --purple-light: #E1BEE7;
-  --purple-medium: #AB47BC;
-  --purple-dark: #6A1B9A;
-  --gradient-header: linear-gradient(135deg, #6A1B9A, #AB47BC);
-  --gradient-footer: linear-gradient(135deg, #AB47BC, #6A1B9A);
+  --coffee-light: #EDE0D4;      /* fondo claro, similar al latte */
+  --coffee-medium: #C19A6B;     /* tono café con leche */
+  --coffee-dark: #6F4E37;       /* marrón profundo tipo espresso */
+  --gradient-header: linear-gradient(135deg, #6F4E37, #C19A6B);
+  --gradient-footer: linear-gradient(135deg, #C19A6B, #6F4E37);
   --font-family: 'Poppins', sans-serif;
 }
+
 
 * {
   margin: 0;
@@ -16,7 +17,9 @@
 
 body {
   font-family: var(--font-family);
-  background-color: #faf9ff;
+  background-image: url(./src/img/textura.png);
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #333;
 }
 
@@ -38,10 +41,10 @@ body {
 
 .header-icon {
   width: 40px;
-  height: 40px;
+  
   margin-right: 0.5rem;
-  border-radius: 50%;
-  border: 2px solid #fff;
+  
+  
 }
 
 .header-buttons {
@@ -208,8 +211,8 @@ body {
 
 .banner-image {
   width: 100%;
-  height: 300px; /* Ajusta la altura según necesites */
-  background: url('https://picsum.photos/1200/300') center center/cover no-repeat;
+  height: 300px;
+  background: url('https://media.licdn.com/dms/image/v2/D4E16AQG8EbajA464Pg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709847798255?e=1749686400&v=beta&t=dilojCX55p1joJ4W5RT77pWPf6p0M8F4GrG9f36buiE') center center/cover no-repeat;
   border-radius: 8px;
   position: relative;
 }
