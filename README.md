@@ -12,12 +12,15 @@
 ---
 
 
-## 📸 Video del sitio
+## 📸 Capturas del sitio
 
+### 🖥️ Vista desktop
 
+![vista-desktop](./src/img/desktop.png)
 
-![Test](./src/videos/gif_prueba.mp4)
+### 📱 Vista mobile
 
+![vista-mobile](./src/img/mobile.png)
 
 
 ---
